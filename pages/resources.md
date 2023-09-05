@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Learning Resources
+title: Recursos de aprendizaje
 category: resources
 permalink: /resources
 ---

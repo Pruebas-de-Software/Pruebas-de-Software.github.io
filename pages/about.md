@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: ¿Quiénes Somos?
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Pruebas de software es un sitio sencillo que permite administrar contenido destacado de la organización a la vez de permitir publicar toda la información importante acerca de los trabajos, proyectos y noticias interesantes dentro del mundo del Testing.
