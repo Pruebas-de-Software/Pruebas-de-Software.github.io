@@ -8,7 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'Recursos de aprendizaje', url: 'resources'}
-- {name: 'Publicaciones',           url: 'sample-posts'}
+- {name: 'Publicaciones',           url: 'posts'}
 - {name: 'Documentación',           url: 'documentation'}
 - {name: '¿Quiénes Somos?',         url: 'about'}
 - {name: 'Contacto',                url: 'contact'}
