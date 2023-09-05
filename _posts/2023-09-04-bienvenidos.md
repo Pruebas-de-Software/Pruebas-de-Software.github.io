@@ -3,7 +3,7 @@ layout: post
 title: "Bienvenidos a Pruebas de Software"
 author: "Iñaki Oyarzun"
 categories: posts
-tags: [post,bienvenids]
+tags: [post,bienvenidos]
 image: cuba-1.jpg
 ---
 
